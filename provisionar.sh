@@ -5,7 +5,7 @@ set -euo pipefail
 RG="rg-trunfo-atomico"
 VM="vm-trunfo-atomico"
 LOCATION="spaincentral"
-SIZE="Standard_B2s"
+SIZE="Standard_B2ls_v2"
 USER_NAME="azureuser"
 
 echo "Verificando assinatura Azure..."
