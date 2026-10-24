@@ -5,7 +5,7 @@ Challenge FIAP 2026 — Sprint 1
 **Parceiro:** AMAZUL / CTMSP  
 **Disciplina:** DevOps  
 **Responsável:** Thiago — RM: 567486
-**Turma:** preencher
+**Turma:** 2TDSPR
 
 ## Sobre o projeto
 
