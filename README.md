@@ -1,4 +1,4 @@
-# Trunfo Atômico — DevOps
+<img width="1891" height="1078" alt="image" src="https://github.com/user-attachments/assets/38181f44-462e-4ec5-94b7-f56212607426" /># Trunfo Atômico — DevOps
 
 Challenge FIAP 2026 — Sprint 1
 
@@ -77,7 +77,7 @@ Cloud Computing permite hospedar essa aplicação em infraestrutura remota, faci
 
 ## Demonstração
 
-**Vídeo:** adicionar link do YouTube não listado após a gravação.
+**Vídeo:** https://www.youtube.com/watch?v=BNrjYQzG4n0
 
 ## Encerramento
 
